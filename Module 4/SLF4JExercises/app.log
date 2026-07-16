@@ -1,0 +1,20 @@
+18:28:01.709
+                [main]
+                DEBUG
+                Exercise3DifferentAppenders
+                - Debug Message
+18:28:01.711
+                [main]
+                INFO 
+                Exercise3DifferentAppenders
+                - Info Message
+18:28:01.711
+                [main]
+                WARN 
+                Exercise3DifferentAppenders
+                - Warning Message
+18:28:01.712
+                [main]
+                ERROR
+                Exercise3DifferentAppenders
+                - Error Message
